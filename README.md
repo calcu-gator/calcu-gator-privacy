@@ -20,7 +20,7 @@ Calcu-GATOR (GATOR Calc) does not use any third-party services, SDKs, analytics 
 
 ## Children's Privacy
 
-GATOR Calc does not collect any information from anyone, including children under the age of 13.
+Calcu-GATOR (GATOR Calc) does not collect any information from anyone, including children under the age of 13.
 
 ## Changes to This Policy
 
